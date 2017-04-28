@@ -2,11 +2,30 @@
 <html>
 <head>
   <title>Our Cool Class Site</title>
+  <!-- mobile -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- bootstrap -->
+  <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" type="text/css" href="lib/node_modules/bootstrap/dist/css/bootstrap.min.css">
+  <!-- main -->
   <link rel="stylesheet" href="/styles/main.css">
 </head>
-<body>
-  <h1>We are the best Evening Cohort ever ... and most humble of course.</h1>
+<body ng-app="ClassSite" ng-cloak>
 
+  <!-- ng-viewport -->
+  <div class="row">
+    <div class="col-xs-12" ng-view></div>
+  </div>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+  <script src="lib/node_modules/jquery/dist/jquery.min.js"></script>
+  <script src="lib/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+  <script src="lib/node_modules/angular/angular.min.js"></script>
+  <script src="lib/node_modules/angular-route/angular-route.min.js"></script>
+  <!-- main -->
+  <script type="text/javascript" src="/javascripts/app.js"></script>
+  <script type="text/javascript" src="/javascripts/AppConfig.js"></script>
   <script src="/javascripts/main.js" type="text/javascript" charset="utf-8" async defer></script>
 </body>
 </html>
