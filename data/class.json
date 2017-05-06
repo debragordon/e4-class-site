@@ -1,0 +1,24 @@
+{
+    "jobs": {
+        "student01": {
+            "image": "/images/debra.jpg",
+            "name": "Debra Gordon",
+            "keywords": "hike, hiking, walking, walk, sing, singer, paint, binge, watch, new jersey"
+        },
+        "student02": {
+            "image": "/images/sarah.jpg",
+            "name": "Sarah Ward",
+            "keywords": "bake, baking, cook, walk, sing, singer, paint, binge, watch, kids, parent, wisconsin"
+        },
+        "student03": {
+            "image": "/images/justin.jpg",
+            "name": "Justin Leggett",
+            "keywords": "hike, hiking, church, nintendo, parent, alabama"
+        },
+        "student04": {
+            "image": "/images/taylor.jpg",
+            "name": "Tarry Harry",
+            "keywords": "travel, dogs, dog, married, tennessee, tn"
+        }
+    }
+}
