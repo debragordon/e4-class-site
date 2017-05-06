@@ -2,6 +2,7 @@
     "developers": [
         {
             "image": "/images/debra.jpg",
+            "funImage": "/images/sarah.jpg",
             "name": "Debra Gordon",
             "url": "http://debragordon.tech",
             "keywords": "hike, hiking, walking, walk, sing, singer, paint, binge, watch, new jersey"
