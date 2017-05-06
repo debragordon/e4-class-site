@@ -2,8 +2,8 @@
 
 app.config(function($routeProvider) {
     $routeProvider
-        // .when('/home', {
-        //     templateUrl: 'partials/main.html'
-        // })
+        .when('/home', {
+            controller: 'HomeCtrl'
+        })
         .otherwise('/home');
 });

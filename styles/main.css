@@ -2,6 +2,10 @@
   margin: 0;
   padding: 0; }
 
+.boxes {
+  margin-top: 10px;
+  margin-bottom: 10px; }
+
 /*!
  * Start Bootstrap - Creative v3.3.7+1 (http://startbootstrap.com/template-overviews/creative)
  * Copyright 2013-2016 Start Bootstrap
@@ -63,8 +67,7 @@ p {
   background-color: #663; }
 
 .bg-dark {
-  background-color: beige;
-  color: #fff; }
+  background-color: beige; }
 
 .text-faded {
   color: rgba(255, 255, 255, 0.7); }
