@@ -48,7 +48,7 @@
             <div class="boxes">
               <i class="fa fa-square" aria-hidden="true"></i> <i class="fa fa-square" aria-hidden="true"></i> <i class="fa fa-square" aria-hidden="true"></i>
             </div>
-            <!-- <p>Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!</p> -->
+
             <a href="#about" class="btn btn-primary btn-xl page-scroll">learn more</a>
         </div>
     </div>
@@ -67,7 +67,7 @@
         </div>
     </div>
   </section>
-  <section id="developers">
+  <section id="developers" ng-controller="HomeCtrl">
       <div class="container">
           <div class="row">
               <div class="col-lg-12 text-center">
@@ -81,7 +81,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12">
-            <p class="text-center">Take a chance, enter a hobby or where you are born and see what you have in common with our cohort. Go crazy, you never know what you will find out about a person.</p>
+            <p class="text-center">Enter a hobby or where you are born and see what you have in common with our cohort. Go crazy, you never know what you will find out about a person.</p>
             <div class="input-group">
               <input type="text" class="form-control" placeholder="ie. hike or read or sing ..." ng-model="searchText">
               <span class="input-group-btn">
@@ -97,14 +97,14 @@
                   <div class="service-box">
                       <img class="img-thumbnail" ng-show="developer.image" ng-src="{{developer.image}}">
                       <h3>{{developer.name}}</h3>
-                      <p class="text-muted">View More</p><!-- make this a link to their page of choice -->
+                      <a ng-href="{{developer.url}}" title="">View More</a>
                   </div>
               </div>
             </div>
         </div>
       </div>
   </section>
-  <section class="bg-dark" id="technology">
+  <section class="bg-dark" id="technology" ng-controller="HomeCtrl">
     <div class="container">
           <div class="row">
               <div class="col-lg-12 text-center">
@@ -117,35 +117,12 @@
       </div>
       <div class="container"> <!-- PLACEHOLDERS for Tech icons -->
         <div class="row">
-            <div class="col-lg-1 col-md-2 col-xs-3 text-center">
-                <div class="service-box">
-                    <i class="fa fa-5x fa-gg-circle" aria-hidden="true"></i>
-                </div>
-            </div>
-            <div class="col-lg-1 col-md-2 col-xs-3 text-center">
-                <div class="service-box">
-                    <i class="fa fa-5x fa-gg-circle" aria-hidden="true"></i>
-                </div>
-            </div>
-            <div class="col-lg-1 col-md-2 col-xs-3 text-center">
-                <div class="service-box">
-                    <i class="fa fa-5x fa-gg-circle" aria-hidden="true"></i>
-                </div>
-            </div>
-            <div class="col-lg-1 col-md-2 col-xs-3 text-center">
-                <div class="service-box">
-                    <i class="fa fa-5x fa-gg-circle" aria-hidden="true"></i>
-                </div>
-            </div>
-            <div class="col-lg-1 col-md-2 col-xs-3 text-center">
-                <div class="service-box">
-                    <i class="fa fa-5x fa-gg-circle" aria-hidden="true"></i>
-                </div>
-            </div>
-            <div class="col-lg-1 col-md-2 col-xs-3 text-center">
-                <div class="service-box">
-                    <i class="fa fa-5x fa-gg-circle" aria-hidden="true"></i>
-                </div>
+            <div ng-repeat="techIcon in techIcons">
+              <div class="col-lg-1 col-md-2 col-xs-3 text-center">
+                  <div class="service-box">
+                    <img class="img-thumbnail" ng-src="{{techIcon}}">
+                  </div>
+              </div>
             </div>
         </div>
       </div>
@@ -162,10 +139,10 @@
   <script src="lib/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
   <script src="lib/node_modules/angular/angular.min.js"></script>
   <script src="lib/node_modules/angular-route/angular-route.min.js"></script>
-  <!-- main -->
+  <!-- angular -->
   <script type="text/javascript" src="/javascripts/app.js"></script>
   <script type="text/javascript" src="/javascripts/AppConfig.js"></script>
-  <script src="/javascripts/main.js" type="text/javascript" charset="utf-8" async defer></script>
+<!--   <script src="/javascripts/main.js" type="text/javascript" charset="utf-8" async defer></script> -->
   <!-- controllers -->
   <script src="/javascripts/Controllers/HomeCtrl.js"></script>
 
