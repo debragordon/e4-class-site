@@ -1,4 +1,4 @@
-# Front End Capstone -
+# CLASS SITE -
 
 more to come ...
 

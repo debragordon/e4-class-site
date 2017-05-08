@@ -7,6 +7,8 @@
   <!-- bootstrap -->
   <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" type="text/css" href="lib/node_modules/bootstrap/dist/css/bootstrap.min.css">
+  <!-- angular tooltips -->
+  <link href="/lib/node_modules/angular-tooltips/dist/angular-tooltips.min.css" rel="stylesheet" type="text/css" />
   <!-- main -->
   <link rel="stylesheet" href="/styles/main.css">
 </head>
@@ -70,41 +72,40 @@
   <section id="developers" ng-controller="HomeCtrl">
       <div class="container">
           <div class="row">
-              <div class="col-lg-12 text-center">
-                  <h2 class="section-heading">Meet The Developers</h2>
-                  <div class="boxes">
-                    <i class="fa fa-square" aria-hidden="true"></i> <i class="fa fa-square" aria-hidden="true"></i> <i class="fa fa-square" aria-hidden="true"></i>
-                  </div>
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+              <h2 class="section-heading">Meet The Developers</h2>
+              <div class="boxes">
+                <i class="fa fa-square" aria-hidden="true"></i> <i class="fa fa-square" aria-hidden="true"></i> <i class="fa fa-square" aria-hidden="true"></i>
               </div>
-          </div>
-      </div>
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12">
-            <p class="text-center">Enter a hobby or where you are born and see what you have in common with our cohort. Go crazy, you never know what you will find out about a person.</p>
-            <div class="input-group">
-              <input type="text" class="form-control" placeholder="ie. hike or read or sing ..." ng-model="searchText">
-              <span class="input-group-btn">
-                <button class="btn btn-default" type="button"><i class="fa fa-search" aria-hidden="true"></i></button>
-              </span>
-            </div><!-- /input-group -->
-          </div><!-- /.col-lg-6 -->
-        </div><!-- /.row -->
-
-        <div class="row">
-            <div ng-repeat="developer in developers | filter: searchText">
-              <div class="col-lg-3 col-md-6 text-center">
-                  <div class="service-box">
-                      <div ng-mouseover="showFun = true" ng-mouseleave="showFun = false" ng-show="developer.image">
-                        <img class="img-thumbnail" ng-show="!showFun" ng-src="{{developer.image}}">
-                        <img class="img-thumbnail" ng-show="showFun" ng-src="{{developer.funImage}}">
-                      </div>
-                      <h3>{{developer.name}}</h3>
-                      <a ng-href="{{developer.url}}" title="" target="_blank">View More</a>
-                  </div>
+              <p class="text-center">Enter a hobby or where you were born and see what you have in common with our cohort. Go crazy, you never know what you will find out about a person.</p>
+              <div class="input-group">
+                <input type="text" class="form-control" placeholder="ie. hike or read or sing ..." ng-model="searchText" id="search">
+                <span class="input-group-btn">
+                  <button class="btn btn-default" type="button" ng-click="clear()"><i class="fa fa-times-circle" aria-hidden="true"></i></button>
+                </span>
               </div>
             </div>
-        </div>
+          </div>
+
+          <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 text-center">
+              <div ng-repeat="developer in developers | filter: searchText">
+                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 text-center">
+                    <div class="service-box">
+                        <div ng-mouseover="showFun = true" ng-mouseleave="showFun = false" ng-show="developer.image">
+                          <img class="img-thumbnail" ng-show="!showFun" ng-src="{{developer.image}}">
+                          <img class="img-thumbnail" ng-show="showFun" ng-src="{{developer.funImage}}">
+                        </div>
+                        <h3>{{developer.name}}</h3>
+                        <p>{{developer.about}}</p>
+                        <a ng-href="{{developer.linkedIn}}" title="" target="_blank" class="weblink" title="linkedIn"> <i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
+                        <a ng-href="{{developer.portfolio}}" title="" target="_blank" class="weblink" title="portfolio"><i class="fa fa-briefcase" aria-hidden="true"></i></a>
+                        <a ng-href="{{developer.github}}" title="" target="_blank" class="weblink" title="github"><i class="fa fa-github" aria-hidden="true"></i></a>
+                    </div>
+                </div>
+              </div>
+            </div>
+          </div>
       </div>
   </section>
   <section class="bg-dark" id="technology" ng-controller="HomeCtrl">
@@ -121,9 +122,9 @@
       <div class="container"> <!-- PLACEHOLDERS for Tech icons -->
         <div class="row">
             <div ng-repeat="techIcon in techIcons">
-              <div class="col-lg-1 col-md-2 col-xs-3 text-center">
+              <div class="col-lg-2 col-md-3 col-xs-4 text-center">
                   <div class="service-box">
-                    <img class="img-thumbnail" ng-src="{{techIcon}}">
+                    <img class="techImage" ng-src="{{techIcon}}">
                   </div>
               </div>
             </div>
@@ -145,6 +146,9 @@
   <!-- angular -->
   <script type="text/javascript" src="/javascripts/app.js"></script>
   <script type="text/javascript" src="/javascripts/AppConfig.js"></script>
+  <!-- angular tooltips -->
+  <script src="/lib/node_modules/angular-tooltips/dist/angular-tooltips.min.js"></script>
+
 <!--   <script src="/javascripts/main.js" type="text/javascript" charset="utf-8" async defer></script> -->
   <!-- controllers -->
   <script src="/javascripts/Controllers/HomeCtrl.js"></script>
