@@ -10,6 +10,17 @@
   border-radius: 50%;
   box-shadow: 0 0 30px 1px lightgrey; }
 
+.weblink {
+  margin: 5px 5px;
+  font-size: 1.25em;
+  padding: 5px; }
+
+.weblink:hover {
+  color: black; }
+
+.techImage {
+  width: 80%; }
+
 /*!
  * Start Bootstrap - Creative v3.3.7+1 (http://startbootstrap.com/template-overviews/creative)
  * Copyright 2013-2016 Start Bootstrap

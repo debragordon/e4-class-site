@@ -1,18 +1,56 @@
 {
     "developers": [
         {
-            "image": "/images/debra.jpg",
-            "funImage": "/images/sarah.jpg",
+            "image": "/images/developers/debra.jpg",
+            "funImage": "/images/developers/sarah.jpg",
             "name": "Debra Gordon",
             "linkedIn": "https://www.linkedin.com",
             "portfolio": "http://google.com",
             "github": "https://github.com/",
+            "about": "VOTED: Most Likely To Roll The Wheels Back",
+            "keywords": "parent, kids, baby, family, church, sing, singer, piano, gardening, netflix, new jersey, tennis"
+        },
+        {
+            "image": "/images/developers/sarah.jpg",
+            "funImage": "/images/developers/debra.jpg",
+            "name": "Sarah Ward",
+            "linkedIn": "https://www.linkedin.com",
+            "portfolio": "http://google.com",
+            "github": "https://github.com/",
+            "about": "VOTED:Most Likely To Offer Up A Sweet Treat",
+            "keywords": "bake, baking, cook, walk, zoo, kids, parent, wisconsin"
+        },
+        {
+            "image": "/images/developers/justin.jpg",
+            "funImage": "/images/developers/taylor.jpg",
+            "name": "Justin Leggett",
+            "linkedIn": "https://www.linkedin.com",
+            "portfolio": "http://google.com",
+            "github": "https://github.com/",
+            "about": "VOTED: Most Likely To Have Twins",
+            "keywords": "hike, hiking, church, nintendo, parent, alabama"
+        },
+        {
+            "image": "/images/developers/taylor.jpg",
+            "funImage": "/images/developers/justin.jpg",
+            "name": "Taylor Harry",
+            "linkedIn": "https://www.linkedin.com",
+            "portfolio": "http://google.com",
+            "github": "https://github.com/",
+            "about": "VOTED: Most Likely To Watch Basketball",
+            "keywords": "gamble, travel, craft beer, married, drummer, kentucky"
+        },
+                {
+            "image": "/images/developers/debra.jpg",
+            "funImage": "/images/developers/sarah.jpg",
+            "name": "Debra Gordon",
+            "linkedIn": "http://debragordon.tech",
             "about": "a little something here from the dev.",
             "keywords": "parent, kids, baby, family, church, sing, singer, piano, gardening, netflix, new jersey, tennis"
         },
         {
-            "image": "/images/sarah.jpg",
-            "funImage": "/images/debra.jpg",
+            "image": "/images/developers/sarah.jpg",
+            "funImage": "/images/developers/debra.jpg",
             "name": "Sarah Ward",
             "linkedIn": "https://www.linkedin.com",
             "portfolio": "http://google.com",
@@ -21,8 +59,8 @@
             "keywords": "bake, baking, cook, walk, zoo, kids, parent, wisconsin"
         },
         {
-            "image": "/images/justin.jpg",
-            "funImage": "/images/taylor.jpg",
+            "image": "/images/developers/justin.jpg",
+            "funImage": "/images/developers/taylor.jpg",
             "name": "Justin Leggett",
             "linkedIn": "https://www.linkedin.com",
             "portfolio": "http://google.com",
@@ -31,8 +69,8 @@
             "keywords": "hike, hiking, church, nintendo, parent, alabama"
         },
         {
-            "image": "/images/taylor.jpg",
-            "funImage": "/images/justin.jpg",
+            "image": "/images/developers/taylor.jpg",
+            "funImage": "/images/developers/justin.jpg",
             "name": "Taylor Harry",
             "linkedIn": "https://www.linkedin.com",
             "portfolio": "http://google.com",
@@ -41,16 +79,16 @@
             "keywords": "gamble, travel, craft beer, married, drummer, kentucky"
         },
                 {
-            "image": "/images/debra.jpg",
-            "funImage": "/images/sarah.jpg",
+            "image": "/images/developers/debra.jpg",
+            "funImage": "/images/developers/sarah.jpg",
             "name": "Debra Gordon",
             "linkedIn": "http://debragordon.tech",
             "about": "a little something here from the dev.",
             "keywords": "parent, kids, baby, family, church, sing, singer, piano, gardening, netflix, new jersey, tennis"
         },
         {
-            "image": "/images/sarah.jpg",
-            "funImage": "/images/debra.jpg",
+            "image": "/images/developers/sarah.jpg",
+            "funImage": "/images/developers/debra.jpg",
             "name": "Sarah Ward",
             "linkedIn": "https://www.linkedin.com",
             "portfolio": "http://google.com",
@@ -59,8 +97,8 @@
             "keywords": "bake, baking, cook, walk, zoo, kids, parent, wisconsin"
         },
         {
-            "image": "/images/justin.jpg",
-            "funImage": "/images/taylor.jpg",
+            "image": "/images/developers/justin.jpg",
+            "funImage": "/images/developers/taylor.jpg",
             "name": "Justin Leggett",
             "linkedIn": "https://www.linkedin.com",
             "portfolio": "http://google.com",
@@ -69,8 +107,8 @@
             "keywords": "hike, hiking, church, nintendo, parent, alabama"
         },
         {
-            "image": "/images/taylor.jpg",
-            "funImage": "/images/justin.jpg",
+            "image": "/images/developers/taylor.jpg",
+            "funImage": "/images/developers/justin.jpg",
             "name": "Taylor Harry",
             "linkedIn": "https://www.linkedin.com",
             "portfolio": "http://google.com",
@@ -79,16 +117,16 @@
             "keywords": "gamble, travel, craft beer, married, drummer, kentucky"
         },
                 {
-            "image": "/images/debra.jpg",
-            "funImage": "/images/sarah.jpg",
+            "image": "/images/developers/debra.jpg",
+            "funImage": "/images/developers/sarah.jpg",
             "name": "Debra Gordon",
             "linkedIn": "http://debragordon.tech",
             "about": "a little something here from the dev.",
             "keywords": "parent, kids, baby, family, church, sing, singer, piano, gardening, netflix, new jersey, tennis"
         },
         {
-            "image": "/images/sarah.jpg",
-            "funImage": "/images/debra.jpg",
+            "image": "/images/developers/sarah.jpg",
+            "funImage": "/images/developers/debra.jpg",
             "name": "Sarah Ward",
             "linkedIn": "https://www.linkedin.com",
             "portfolio": "http://google.com",
@@ -97,8 +135,8 @@
             "keywords": "bake, baking, cook, walk, zoo, kids, parent, wisconsin"
         },
         {
-            "image": "/images/justin.jpg",
-            "funImage": "/images/taylor.jpg",
+            "image": "/images/developers/justin.jpg",
+            "funImage": "/images/developers/taylor.jpg",
             "name": "Justin Leggett",
             "linkedIn": "https://www.linkedin.com",
             "portfolio": "http://google.com",
@@ -107,8 +145,8 @@
             "keywords": "hike, hiking, church, nintendo, parent, alabama"
         },
         {
-            "image": "/images/taylor.jpg",
-            "funImage": "/images/justin.jpg",
+            "image": "/images/developers/taylor.jpg",
+            "funImage": "/images/developers/justin.jpg",
             "name": "Taylor Harry",
             "linkedIn": "https://www.linkedin.com",
             "portfolio": "http://google.com",
@@ -117,16 +155,16 @@
             "keywords": "gamble, travel, craft beer, married, drummer, kentucky"
         },
                 {
-            "image": "/images/debra.jpg",
-            "funImage": "/images/sarah.jpg",
+            "image": "/images/developers/debra.jpg",
+            "funImage": "/images/developers/sarah.jpg",
             "name": "Debra Gordon",
             "linkedIn": "http://debragordon.tech",
             "about": "a little something here from the dev.",
             "keywords": "parent, kids, baby, family, church, sing, singer, piano, gardening, netflix, new jersey, tennis"
         },
         {
-            "image": "/images/sarah.jpg",
-            "funImage": "/images/debra.jpg",
+            "image": "/images/developers/sarah.jpg",
+            "funImage": "/images/developers/debra.jpg",
             "name": "Sarah Ward",
             "linkedIn": "https://www.linkedin.com",
             "portfolio": "http://google.com",
@@ -135,8 +173,8 @@
             "keywords": "bake, baking, cook, walk, zoo, kids, parent, wisconsin"
         },
         {
-            "image": "/images/justin.jpg",
-            "funImage": "/images/taylor.jpg",
+            "image": "/images/developers/justin.jpg",
+            "funImage": "/images/developers/taylor.jpg",
             "name": "Justin Leggett",
             "linkedIn": "https://www.linkedin.com",
             "portfolio": "http://google.com",
@@ -145,46 +183,8 @@
             "keywords": "hike, hiking, church, nintendo, parent, alabama"
         },
         {
-            "image": "/images/taylor.jpg",
-            "funImage": "/images/justin.jpg",
-            "name": "Taylor Harry",
-            "linkedIn": "https://www.linkedin.com",
-            "portfolio": "http://google.com",
-            "github": "https://github.com/",
-            "about": "a little something here from the dev.",
-            "keywords": "gamble, travel, craft beer, married, drummer, kentucky"
-        },
-                {
-            "image": "/images/debra.jpg",
-            "funImage": "/images/sarah.jpg",
-            "name": "Debra Gordon",
-            "linkedIn": "http://debragordon.tech",
-            "about": "a little something here from the dev.",
-            "keywords": "parent, kids, baby, family, church, sing, singer, piano, gardening, netflix, new jersey, tennis"
-        },
-        {
-            "image": "/images/sarah.jpg",
-            "funImage": "/images/debra.jpg",
-            "name": "Sarah Ward",
-            "linkedIn": "https://www.linkedin.com",
-            "portfolio": "http://google.com",
-            "github": "https://github.com/",
-            "about": "a little something here from the dev.",
-            "keywords": "bake, baking, cook, walk, zoo, kids, parent, wisconsin"
-        },
-        {
-            "image": "/images/justin.jpg",
-            "funImage": "/images/taylor.jpg",
-            "name": "Justin Leggett",
-            "linkedIn": "https://www.linkedin.com",
-            "portfolio": "http://google.com",
-            "github": "https://github.com/",
-            "about": "a little something here from the dev.",
-            "keywords": "hike, hiking, church, nintendo, parent, alabama"
-        },
-        {
-            "image": "/images/taylor.jpg",
-            "funImage": "/images/justin.jpg",
+            "image": "/images/developers/taylor.jpg",
+            "funImage": "/images/developers/justin.jpg",
             "name": "Taylor Harry",
             "linkedIn": "https://www.linkedin.com",
             "portfolio": "http://google.com",
