@@ -12,6 +12,14 @@ body {
     margin-bottom: 10px;
 }
 
+.img-thumbnail {
+    border-radius: 50%;
+    box-shadow: 0 0 30px 1px lightgrey;
+}
+
+
+
+
 //creative css
 /*!
  * Start Bootstrap - Creative v3.3.7+1 (http://startbootstrap.com/template-overviews/creative)
@@ -39,7 +47,7 @@ html {
 }
 
 body {
-    font-family: Merriweather, 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'Segoe UI', Frutiger, 'Frutiger Linotype', 'Dejavu Sans', 'Helvetica Neue', Arial, sans-serif;
     webkit-tap-highlight-color: #222
 }
 
@@ -52,7 +60,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
 }
 
 hr {
@@ -322,7 +330,7 @@ header .header-content .header-content-inner p {
 
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category,
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
-    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
     padding: 0 15px
 }
 

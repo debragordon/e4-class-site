@@ -11,4 +11,8 @@ app.controller("HomeCtrl", function ($scope, $rootScope, $http){
 
   $scope.techIcons = ["/images/html5.png", "/images/css3.png", "/images/js.png"];
 
+  $scope.clear = function () {
+    document.getElementById("search").value = "";
+  };
+
 });
