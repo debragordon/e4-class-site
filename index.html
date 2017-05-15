@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
-  <head>
+
+<head>
     <title>E4 Class Site</title>
 
     <!-- mobile -->
@@ -10,125 +11,129 @@
     <link rel="stylesheet" type="text/css" href="lib/node_modules/bootstrap/dist/css/bootstrap.min.css">
     <!-- main -->
     <link rel="stylesheet" href="/styles/main.css">
-  </head>
+</head>
 
-  <body ng-app="ClassSite">
+<body ng-app="ClassSite" id="top-page">
     <!-- ng-viewport -->
     <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
-      <div class="container-fluid">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
             <span class="sr-only">Toggle navigation</span> <i class="fa fa-bars"></i>
           </button>
-          <a class="navbar-brand page-scroll" href="#page-top">E4</a>
+                <a class="navbar-brand page-scroll" href="#top-page" du-smooth-scroll duration="1000">E4</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a class="page-scroll" href="#top-page" du-smooth-scroll duration="1000">Home</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#about" du-smooth-scroll duration="1000">About</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#developers" du-smooth-scroll duration="1000">Developers</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#technology" du-smooth-scroll duration="1000">Technology</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
         </div>
-
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-          <ul class="nav navbar-nav navbar-right">
-            <li>
-              <a class="page-scroll" href="#about">About</a>
-            </li>
-            <li>
-              <a class="page-scroll" href="#developers">Developers</a>
-            </li>
-            <li>
-              <a class="page-scroll" href="#technology">Technology</a>
-            </li>
-          </ul>
-        </div>
-        <!-- /.navbar-collapse -->
-      </div>
-      <!-- /.container-fluid -->
+        <!-- /.container-fluid -->
     </nav>
 
     <header>
-      <div class="header-content" id="page-top">
-        <div class="header-content-inner align-top"></div>
-      </div>
+        <div class="header-content" id="page-top">
+            <div class="header-content-inner align-top"></div>
+        </div>
     </header>
 
     <section class="bg-primary" id="about">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-8 col-lg-offset-2 text-center">
-            <img src="/images/e4-white.png" alt="" class="logo">
-              <div class="boxes">
-                <i class="fa fa-square" aria-hidden="true"></i> <i class="fa fa-square" aria-hidden="true"></i> <i class="fa fa-square" aria-hidden="true"></i>
-              </div>
-              <p class="text-faded">UPDATE this later. Technology powers our economy. It's the engine that drives the future of health care, of publishing, of the music and entertainment, of logistics and nearly every other industry. And Nashville has a great need for more software developers. The lack of a deep talent pool in the field isn't a problem exclusive to this region. Many major cities across the country have the same shortage. NSS began in 2012 as a proactive approach to continuously educating and homegrowing emerging software developers in Music City.</p>
-          </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <img src="/images/e4-white.png" alt="" class="logo">
+                    <div class="boxes">
+                        <i class="fa fa-square" aria-hidden="true"></i> <i class="fa fa-square" aria-hidden="true"></i> <i class="fa fa-square" aria-hidden="true"></i>
+                    </div>
+                    <p class="text-faded">UPDATE this later. Technology powers our economy. It's the engine that drives the future of health care, of publishing, of the music and entertainment, of logistics and nearly every other industry. And Nashville has a great need for
+                        more software developers. The lack of a deep talent pool in the field isn't a problem exclusive to this region. Many major cities across the country have the same shortage. NSS began in 2012 as a proactive approach to continuously
+                        educating and homegrowing emerging software developers in Music City.</p>
+                </div>
+            </div>
         </div>
-      </div>
     </section>
 
     <section id="developers" ng-controller="HomeCtrl">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-8 col-lg-offset-2 text-center">
-            <h2 class="section-heading">Meet The Developers</h2>
-            <div class="boxes">
-              <i class="fa fa-square" aria-hidden="true"></i> <i class="fa fa-square" aria-hidden="true"></i> <i class="fa fa-square" aria-hidden="true"></i>
-            </div>
-            <p class="text-center">Enter a hobby or where you were born and see what you have in common with our cohort. Go crazy, you never know what you will find out about a person.</p>
-            <div class="input-group">
-              <input type="text" class="form-control" placeholder="ie. hike or read or sing ..." ng-model="searchText" id="search">
-              <span class="input-group-btn">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">Meet The Developers</h2>
+                    <div class="boxes">
+                        <i class="fa fa-square" aria-hidden="true"></i> <i class="fa fa-square" aria-hidden="true"></i> <i class="fa fa-square" aria-hidden="true"></i>
+                    </div>
+                    <p class="text-center">Enter a hobby or where you were born and see what you have in common with our cohort. Go crazy, you never know what you will find out about a person.</p>
+                    <div class="input-group">
+                        <input type="text" class="form-control" placeholder="ie. hike or read or sing ..." ng-model="searchText" id="search">
+                        <span class="input-group-btn">
                 <button class="btn btn-default" type="button" ng-click="clear()"><i class="fa fa-times-circle" aria-hidden="true"></i></button>
               </span>
-            </div>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-lg-8 col-lg-offset-2 text-center">
-            <div ng-repeat="developer in developers | filter: searchText">
-              <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 text-center">
-                <div class="service-box">
-                  <div ng-mouseover="showFun = true" ng-mouseleave="showFun = false" ng-show="developer.image">
-                    <img class="img-thumbnail" ng-show="!showFun" ng-src="{{developer.image}}">
-                    <img class="img-thumbnail" ng-show="showFun" ng-src="{{developer.funImage}}">
-                  </div>
-                  <h3 ng-show="developer.name">{{developer.name}}</h3>
-                  <p ng-show="developer.about">{{developer.about}}</p>
-                  <a ng-href="{{developer.linkedIn}}" title="" target="_blank" class="weblink" title="linkedIn"> <i class="fa fa-linkedin-square" aria-hidden="true" ng-show="developer.linkedIn"></i></a>
-                  <a ng-href="{{developer.portfolio}}" title="" target="_blank" class="weblink" title="portfolio"><i class="fa fa-briefcase" aria-hidden="true" ng-show="developer.portfolio"></i></a>
-                  <a ng-href="{{developer.github}}" title="" target="_blank" class="weblink" title="github"><i class="fa fa-github" aria-hidden="true" ng-show="developer.github"></i></a>
+                    </div>
                 </div>
             </div>
-          </div>
-        </div>
-      </div>
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <div ng-repeat="developer in developers | filter: searchText">
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 text-center">
+                            <div class="service-box">
+                                <div ng-mouseover="showFun = true" ng-mouseleave="showFun = false" ng-show="developer.image">
+                                    <img class="img-thumbnail" ng-show="!showFun" ng-src="{{developer.image}}">
+                                    <img class="img-thumbnail" ng-show="showFun" ng-src="{{developer.funImage}}">
+                                </div>
+                                <h3 ng-show="developer.name">{{developer.name}}</h3>
+                                <p ng-show="developer.about">{{developer.about}}</p>
+                                <a ng-href="{{developer.linkedIn}}" title="" target="_blank" class="weblink" title="linkedIn"> <i class="fa fa-linkedin-square" aria-hidden="true" ng-show="developer.linkedIn"></i></a>
+                                <a ng-href="{{developer.portfolio}}" title="" target="_blank" class="weblink" title="portfolio"><i class="fa fa-briefcase" aria-hidden="true" ng-show="developer.portfolio"></i></a>
+                                <a ng-href="{{developer.github}}" title="" target="_blank" class="weblink" title="github"><i class="fa fa-github" aria-hidden="true" ng-show="developer.github"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
     </section>
 
     <section class="bg-dark" id="technology" ng-controller="HomeCtrl">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12 text-center">
-            <h2 class="section-heading">Technology</h2>
-            <div class="boxes">
-              <i class="fa fa-square" aria-hidden="true"></i> <i class="fa fa-square" aria-hidden="true"></i> <i class="fa fa-square" aria-hidden="true"></i>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Technology</h2>
+                    <div class="boxes">
+                        <i class="fa fa-square" aria-hidden="true"></i> <i class="fa fa-square" aria-hidden="true"></i> <i class="fa fa-square" aria-hidden="true"></i>
+                    </div>
+                </div>
             </div>
-          </div>
         </div>
-      </div>
-      <div class="container">
-        <div class="row">
-          <div ng-repeat="techIcon in techIcons">
-            <div class="col-lg-2 col-md-3 col-xs-4 text-center">
-              <div class="service-box">
-                <img class="techImage" title="{{techIcon.title}}" data-toggle="tooltip" onmouseenter="$(this).tooltip('show')" ng-src="{{techIcon.img}}" ng-show="techIcon.img">
-              </div>
+        <div class="container">
+            <div class="row">
+                <div ng-repeat="techIcon in techIcons">
+                    <div class="col-lg-2 col-md-3 col-xs-4 text-center">
+                        <div class="service-box">
+                            <img class="techImage" title="{{techIcon.title}}" data-toggle="tooltip" onmouseenter="$(this).tooltip('show')" ng-src="{{techIcon.img}}" ng-show="techIcon.img">
+                        </div>
+                    </div>
+                </div>
             </div>
-          </div>
         </div>
-      </div>
     </section>
 
     <footer class="bd-footer text-muted">
-    <div class="container text-center">
-      <h6><i class="fa fa-copyright" aria-hidden="true"></i>2017 E4-Cohort NSS | <a href="#page-top">TOP</a></h6>
-    </div>
+        <div class="container text-center">
+            <h6><i class="fa fa-copyright" aria-hidden="true"></i>2017 E4-Cohort NSS | <a href="#top-page" du-smooth-scroll duration="1000">TOP</a></h6>
+        </div>
     </footer>
     <!-- SCRIPTS -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
@@ -136,8 +141,10 @@
     <script src="lib/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
     <script src="lib/node_modules/angular/angular.min.js"></script>
     <script src="lib/node_modules/angular-route/angular-route.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-scroll/1.0.2/angular-scroll.js"></script>
     <script type="text/javascript" src="/javascripts/app.js"></script>
     <script type="text/javascript" src="/javascripts/AppConfig.js"></script>
     <script src="/javascripts/Controllers/HomeCtrl.js"></script>
-  </body>
+</body>
+
 </html>
