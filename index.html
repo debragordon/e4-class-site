@@ -117,7 +117,7 @@
           <div ng-repeat="techIcon in techIcons">
             <div class="col-lg-2 col-md-3 col-xs-4 text-center">
               <div class="service-box">
-                <img class="techImage" title="{{techIcon.title}}" data-toggle="tooltip" onmouseenter="$(this).tooltip('show')" ng-src="{{techIcon.img}}">
+                <img class="techImage" title="{{techIcon.title}}" data-toggle="tooltip" onmouseenter="$(this).tooltip('show')" ng-src="{{techIcon.img}}" ng-show="techIcon.img">
               </div>
             </div>
           </div>
