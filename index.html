@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="/styles/main.css">
   </head>
 
-  <body ng-app="ClassSite">
+  <body ng-app="ClassSite" id="top-page">
     <!-- ng-viewport -->
     <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
       <div class="container-fluid">
@@ -21,20 +21,20 @@
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
             <span class="sr-only">Toggle navigation</span> <i class="fa fa-bars"></i>
           </button>
-          <a class="navbar-brand page-scroll" href="#page-top">E4</a>
+          <a class="navbar-brand page-scroll" href="#page-top" du-smooth-scroll duration="1000">E4</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav navbar-right">
             <li>
-              <a class="page-scroll" href="#about">About</a>
+              <a class="page-scroll" href="#about" du-smooth-scroll duration="1000">About</a>
             </li>
             <li>
-              <a class="page-scroll" href="#developers">Developers</a>
+              <a class="page-scroll" href="#developers" du-smooth-scroll duration="1000">Developers</a>
             </li>
             <li>
-              <a class="page-scroll" href="#technology">Technology</a>
+              <a class="page-scroll" href="#technology" du-smooth-scroll duration="1000">Technology</a>
             </li>
           </ul>
         </div>
@@ -127,7 +127,7 @@
 
     <footer class="bd-footer text-muted">
     <div class="container text-center">
-      <h6><i class="fa fa-copyright" aria-hidden="true"></i>2017 E4-Cohort NSS | <a href="#page-top">TOP</a></h6>
+      <h6><i class="fa fa-copyright" aria-hidden="true"></i>2017 E4-Cohort NSS | <a href="#page-top" du-smooth-scroll duration="1000">TOP</a></h6>
     </div>
     </footer>
     <!-- SCRIPTS -->
@@ -136,6 +136,7 @@
     <script src="lib/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
     <script src="lib/node_modules/angular/angular.min.js"></script>
     <script src="lib/node_modules/angular-route/angular-route.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-scroll/1.0.2/angular-scroll.js"></script>
     <script type="text/javascript" src="/javascripts/app.js"></script>
     <script type="text/javascript" src="/javascripts/AppConfig.js"></script>
     <script src="/javascripts/Controllers/HomeCtrl.js"></script>
