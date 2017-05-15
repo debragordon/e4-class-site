@@ -7,7 +7,7 @@
             "linkedIn": "",
             "portfolio": "",
             "github": "",
-            "about": "a little something here from the dev.",
+            "about": "",
             "keywords": ""
         },
         {
@@ -17,7 +17,7 @@
             "linkedIn": "",
             "portfolio": "",
             "github": "",
-            "about": "a little something here from the dev.",
+            "about": "",
             "keywords": ""
         },
         {
@@ -27,8 +27,8 @@
             "linkedIn": "https://www.linkedin.com/in/debramgordon/",
             "portfolio": "http://debragordon.tech",
             "github": "https://github.com/debragordon",
-            "about": "a little something here from the dev.",
-            "keywords": "sing, singer, tennis, demo, piano, mom, parent, new jersey, dog, hike, travel, france, japan, germany"
+            "about": "Most Likely To Roll The Wheels Back",
+            "keywords": "sing, singer, tennis, demo, piano, mom, parent, new jersey, dog, hike, travel, france, japan, germany, family, church, photographer, designer, design, teacher, drama"
         },
         {
             "image": "/images/developers/owen.jpg",
@@ -37,7 +37,7 @@
             "linkedIn": "",
             "portfolio": "",
             "github": "",
-            "about": "a little something here from the dev.",
+            "about": "",
             "keywords": ""
         },
         {
@@ -47,7 +47,7 @@
             "linkedIn": "",
             "portfolio": "",
             "github": "",
-            "about": "a little something here from the dev.",
+            "about": "",
             "keywords": ""
         },
         {
@@ -57,146 +57,147 @@
             "linkedIn": "",
             "portfolio": "",
             "github": "",
-            "about": "a little something here from the dev.",
+            "about": "",
             "keywords": ""
         },
         {
             "image": "/images/developers/taylor.jpg",
             "funImage": "/images/developers/taylorFun.jpg",
             "name": "Taylor Harry",
-            "linkedIn": "https://www.linkedin.com",
+            "linkedIn": "",
             "portfolio": "",
             "github": "",
-            "about": "a little something here from the dev.",
+            "about": "",
             "keywords": ""
         },
         {
             "image": "/images/developers/abbie.jpg",
             "funImage": "/images/developers/abbieFun.jpg",
             "name": "Abbie Holder",
-            "linkedIn": "https://www.linkedin.com",
+            "linkedIn": "",
             "portfolio": "",
             "github": "",
-            "about": "a little something here from the dev.",
+            "about": "",
             "keywords": "update all of the keyword lists"
         },
         {
             "image": "/images/developers/jessica.jpg",
             "funImage": "/images/developers/jessicaFun.jpg",
             "name": "Jessica Kilby",
-            "linkedIn": "https://www.linkedin.com",
+            "linkedIn": "",
             "portfolio": "",
             "github": "",
-            "about": "a little something here from the dev.",
+            "about": "",
             "keywords": ""
         },
         {
             "image": "/images/developers/josh.jpg",
             "funImage": "/images/developers/joshFun.jpg",
             "name": "Josh Kilgore",
-            "linkedIn": "https://www.linkedin.com",
+            "linkedIn": "",
             "portfolio": "",
             "github": "",
-            "about": "a little something here from the dev.",
+            "about": "",
             "keywords": "lawyer"
         },
         {
             "image": "/images/developers/justin.jpg",
             "funImage": "/images/developers/justinFun.jpg",
             "name": "Justin Leggett",
-            "linkedIn": "https://www.linkedin.com",
+            "linkedIn": "",
             "portfolio": "",
             "github": "",
-            "about": "a little something here from the dev.",
+            "about": "",
             "keywords": ""
         },
         {
             "image": "/images/developers/bin.jpg",
             "funImage": "/images/developers/binFun.jpg",
             "name": "Bin Li",
-            "linkedIn": "https://www.linkedin.com",
+            "linkedIn": "",
             "portfolio": "",
             "github": "",
-            "about": "a little something here from the dev.",
+            "about": "",
             "keywords": ""
         },
         {
             "image": "/images/developers/nathan.jpg",
             "funImage": "/images/developers/nathanFun.jpg",
             "name": "Nathan Ostrander",
-            "linkedIn": "https://www.linkedin.com",
+            "linkedIn": "",
             "portfolio": "",
             "github": "",
-            "about": "a little something here from the dev.",
+            "about": "",
             "keywords": ""
         },
         {
             "image": "/images/developers/alex.jpg",
             "funImage": "/images/developers/alexFun.jpg",
             "name": "Alex Saber",
-            "linkedIn": "https://www.linkedin.com",
+            "linkedIn": "",
             "portfolio": "",
             "github": "",
-            "about": "a little something here from the dev.",
+            "about": "",
             "keywords": ""
         },
         {
             "image": "/images/developers/taylors.jpg",
             "funImage": "/images/developers/taylorsFun.jpg",
             "name": "Taylor Shuff",
-            "linkedIn": "https://www.linkedin.com",
+            "linkedIn": "",
             "portfolio": "",
             "github": "",
-            "about": "a little something here from the dev.",
+            "about": "",
             "keywords": ""
         },
         {
             "image": "/images/developers/stephen.jpg",
             "funImage": "/images/developers/stephenFun.jpg",
             "name": "Stephen Szpak",
-            "linkedIn": "https://www.linkedin.com",
+            "linkedIn": "",
             "portfolio": "",
             "github": "",
-            "about": "a little something here from the dev.",
+            "about": "",
             "keywords": ""
         },
         {
             "image": "/images/developers/mike.jpg",
             "funImage": "/images/developers/mikeFun.jpg",
             "name": "Mike Teutsch",
-            "linkedIn": "https://www.linkedin.com",
+            "linkedIn": "",
             "portfolio": "",
             "github": "",
-            "about": "a little something here from the dev.",
+            "about": "",
             "keywords": ""
         },
         {
             "image": "/images/developers/blair.jpg",
             "funImage": "/images/developers/blairFun.jpg",
             "name": "Blair Van Sant",
-            "linkedIn": "https://www.linkedin.com",
+            "linkedIn": "",
             "portfolio": "",
             "github": "",
-            "about": "a little something here from the dev.",
+            "about": "",
             "keywords": ""
         },
         {
             "image": "/images/developers/sarah.jpg",
             "funImage": "/images/developers/sarahFun.jpg",
-            "linkedIn": "https://www.linkedin.com",
+            "name": "Sarah Ward",
+            "linkedIn": "",
             "portfolio": "",
             "github": "",
-            "about": "a little something here from the dev.",
+            "about": "",
             "keywords": ""
         },
         {
             "image": "/images/developers/tommy.jpg",
             "funImage": "/images/developers/tommyFun.jpg",
             "name": "Tommy Waters",
-            "linkedIn": "https://www.linkedin.com",
+            "linkedIn": "",
             "portfolio": "",
             "github": "",
-            "about": "a little something here from the dev.",
+            "about": "",
             "keywords": ""
         }
     ]
