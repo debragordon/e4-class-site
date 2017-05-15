@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Our Cool Class Site</title>
+  <title>E4 Class Site</title>
   <!-- mobile -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- bootstrap -->
@@ -22,7 +22,7 @@
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top"></a>
+                <a class="navbar-brand page-scroll" href="#page-top">E4</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -44,14 +44,13 @@
         <!-- /.container-fluid -->
     </nav>
   <header>
-    <div class="header-content">
-        <div class="header-content-inner">
-            <h1 id="homeHeading">E4 Cohort</h1>
-            <div class="boxes">
-              <i class="fa fa-square" aria-hidden="true"></i> <i class="fa fa-square" aria-hidden="true"></i> <i class="fa fa-square" aria-hidden="true"></i>
-            </div>
+    <div class="header-content" id="page-top">
+        <div class="header-content-inner align-top">
+<!--             <div class="boxes">
+              <img src="/images/e4-white.png" alt="" class="logo">
+            </div> -->
 
-            <a href="#about" class="btn btn-primary btn-xl page-scroll">learn more</a>
+<!--             <a href="#about" class="btn btn-primary btn-xl page-scroll">learn more</a> -->
         </div>
     </div>
   </header>
@@ -60,6 +59,8 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
+                <img src="/images/e4-white.png" alt="" class="logo">
+
                 <h2 class="section-heading">About</h2>
                 <div class="boxes">
                   <i class="fa fa-square" aria-hidden="true"></i> <i class="fa fa-square" aria-hidden="true"></i> <i class="fa fa-square" aria-hidden="true"></i>
@@ -98,9 +99,9 @@
                         </div>
                         <h3>{{developer.name}}</h3>
                         <p>{{developer.about}}</p>
-                        <a ng-href="{{developer.linkedIn}}" title="" target="_blank" class="weblink" title="linkedIn"> <i class="fa fa-linkedin-square" aria-hidden="true"></i></a>
-                        <a ng-href="{{developer.portfolio}}" title="" target="_blank" class="weblink" title="portfolio"><i class="fa fa-briefcase" aria-hidden="true"></i></a>
-                        <a ng-href="{{developer.github}}" title="" target="_blank" class="weblink" title="github"><i class="fa fa-github" aria-hidden="true"></i></a>
+                        <a ng-href="{{developer.linkedIn}}" title="" target="_blank" class="weblink" title="linkedIn"> <i class="fa fa-linkedin-square" aria-hidden="true" ng-show="developer.linkedIn"></i></a>
+                        <a ng-href="{{developer.portfolio}}" title="" target="_blank" class="weblink" title="portfolio"><i class="fa fa-briefcase" aria-hidden="true" ng-show="developer.portfolio"></i></a>
+                        <a ng-href="{{developer.github}}" title="" target="_blank" class="weblink" title="github"><i class="fa fa-github" aria-hidden="true" ng-show="developer.github"></i></a>
                     </div>
                 </div>
               </div>

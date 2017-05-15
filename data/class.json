@@ -1,196 +1,203 @@
 {
     "developers": [
         {
+            "image": "/images/developers/alicia.jpg",
+            "funImage": "/images/developers/aliciaFun.jpg",
+            "name": "Alicia Bingham",
+            "linkedIn": "",
+            "portfolio": "",
+            "github": "",
+            "about": "a little something here from the dev.",
+            "keywords": ""
+        },
+        {
+            "image": "/images/developers/andi.jpg",
+            "funImage": "/images/developers/andiFun.jpg",
+            "name": "Andi DeVois",
+            "linkedIn": "",
+            "portfolio": "",
+            "github": "",
+            "about": "a little something here from the dev.",
+            "keywords": ""
+        },
+        {
             "image": "/images/developers/debra.jpg",
-            "funImage": "/images/developers/sarah.jpg",
+            "funImage": "/images/developers/debraFun.jpg",
             "name": "Debra Gordon",
-            "linkedIn": "https://www.linkedin.com",
-            "portfolio": "http://google.com",
-            "github": "https://github.com/",
-            "about": "VOTED: Most Likely To Roll The Wheels Back",
-            "keywords": "parent, kids, baby, family, church, sing, singer, piano, gardening, netflix, new jersey, tennis"
+            "linkedIn": "https://www.linkedin.com/in/debramgordon/",
+            "portfolio": "http://debragordon.tech",
+            "github": "https://github.com/debragordon",
+            "about": "a little something here from the dev.",
+            "keywords": "sing, singer, tennis, demo, piano, mom, parent, new jersey, dog, hike, travel, france, japan, germany"
         },
         {
-            "image": "/images/developers/sarah.jpg",
-            "funImage": "/images/developers/debra.jpg",
-            "name": "Sarah Ward",
-            "linkedIn": "https://www.linkedin.com",
-            "portfolio": "http://google.com",
-            "github": "https://github.com/",
-            "about": "VOTED:Most Likely To Offer Up A Sweet Treat",
-            "keywords": "bake, baking, cook, walk, zoo, kids, parent, wisconsin"
+            "image": "/images/developers/owen.jpg",
+            "funImage": "/images/developers/owenFun.jpg",
+            "name": "Owen Herndon",
+            "linkedIn": "",
+            "portfolio": "",
+            "github": "",
+            "about": "a little something here from the dev.",
+            "keywords": ""
         },
         {
-            "image": "/images/developers/justin.jpg",
-            "funImage": "/images/developers/taylor.jpg",
-            "name": "Justin Leggett",
-            "linkedIn": "https://www.linkedin.com",
-            "portfolio": "http://google.com",
-            "github": "https://github.com/",
-            "about": "VOTED: Most Likely To Have Twins",
-            "keywords": "hike, hiking, church, nintendo, parent, alabama"
+            "image": "/images/developers/gayla.jpg",
+            "funImage": "/images/developers/gaylaFun.jpg",
+            "name": "Gayla Hall",
+            "linkedIn": "",
+            "portfolio": "",
+            "github": "",
+            "about": "a little something here from the dev.",
+            "keywords": ""
+        },
+        {
+            "image": "/images/developers/lee.jpg",
+            "funImage": "/images/developers/leeFun.jpg",
+            "name": "Lee Hankins",
+            "linkedIn": "",
+            "portfolio": "",
+            "github": "",
+            "about": "a little something here from the dev.",
+            "keywords": ""
         },
         {
             "image": "/images/developers/taylor.jpg",
-            "funImage": "/images/developers/justin.jpg",
+            "funImage": "/images/developers/taylorFun.jpg",
             "name": "Taylor Harry",
             "linkedIn": "https://www.linkedin.com",
-            "portfolio": "http://google.com",
-            "github": "https://github.com/",
-            "about": "VOTED: Most Likely To Watch Basketball",
-            "keywords": "gamble, travel, craft beer, married, drummer, kentucky"
-        },
-                {
-            "image": "/images/developers/debra.jpg",
-            "funImage": "/images/developers/sarah.jpg",
-            "name": "Debra Gordon",
-            "linkedIn": "http://debragordon.tech",
+            "portfolio": "",
+            "github": "",
             "about": "a little something here from the dev.",
-            "keywords": "parent, kids, baby, family, church, sing, singer, piano, gardening, netflix, new jersey, tennis"
+            "keywords": ""
         },
         {
-            "image": "/images/developers/sarah.jpg",
-            "funImage": "/images/developers/debra.jpg",
-            "name": "Sarah Ward",
+            "image": "/images/developers/abbie.jpg",
+            "funImage": "/images/developers/abbieFun.jpg",
+            "name": "Abbie Holder",
             "linkedIn": "https://www.linkedin.com",
-            "portfolio": "http://google.com",
-            "github": "https://github.com/",
+            "portfolio": "",
+            "github": "",
             "about": "a little something here from the dev.",
-            "keywords": "bake, baking, cook, walk, zoo, kids, parent, wisconsin"
+            "keywords": "update all of the keyword lists"
+        },
+        {
+            "image": "/images/developers/jessica.jpg",
+            "funImage": "/images/developers/jessicaFun.jpg",
+            "name": "Jessica Kilby",
+            "linkedIn": "https://www.linkedin.com",
+            "portfolio": "",
+            "github": "",
+            "about": "a little something here from the dev.",
+            "keywords": ""
+        },
+        {
+            "image": "/images/developers/josh.jpg",
+            "funImage": "/images/developers/joshFun.jpg",
+            "name": "Josh Kilgore",
+            "linkedIn": "https://www.linkedin.com",
+            "portfolio": "",
+            "github": "",
+            "about": "a little something here from the dev.",
+            "keywords": "lawyer"
         },
         {
             "image": "/images/developers/justin.jpg",
-            "funImage": "/images/developers/taylor.jpg",
+            "funImage": "/images/developers/justinFun.jpg",
             "name": "Justin Leggett",
             "linkedIn": "https://www.linkedin.com",
-            "portfolio": "http://google.com",
-            "github": "https://github.com/",
+            "portfolio": "",
+            "github": "",
             "about": "a little something here from the dev.",
-            "keywords": "hike, hiking, church, nintendo, parent, alabama"
+            "keywords": ""
         },
         {
-            "image": "/images/developers/taylor.jpg",
-            "funImage": "/images/developers/justin.jpg",
-            "name": "Taylor Harry",
+            "image": "/images/developers/bin.jpg",
+            "funImage": "/images/developers/binFun.jpg",
+            "name": "Bin Li",
             "linkedIn": "https://www.linkedin.com",
-            "portfolio": "http://google.com",
-            "github": "https://github.com/",
+            "portfolio": "",
+            "github": "",
             "about": "a little something here from the dev.",
-            "keywords": "gamble, travel, craft beer, married, drummer, kentucky"
+            "keywords": ""
         },
-                {
-            "image": "/images/developers/debra.jpg",
-            "funImage": "/images/developers/sarah.jpg",
-            "name": "Debra Gordon",
-            "linkedIn": "http://debragordon.tech",
+        {
+            "image": "/images/developers/nathan.jpg",
+            "funImage": "/images/developers/nathanFun.jpg",
+            "name": "Nathan Ostrander",
+            "linkedIn": "https://www.linkedin.com",
+            "portfolio": "",
+            "github": "",
             "about": "a little something here from the dev.",
-            "keywords": "parent, kids, baby, family, church, sing, singer, piano, gardening, netflix, new jersey, tennis"
+            "keywords": ""
+        },
+        {
+            "image": "/images/developers/alex.jpg",
+            "funImage": "/images/developers/alexFun.jpg",
+            "name": "Alex Saber",
+            "linkedIn": "https://www.linkedin.com",
+            "portfolio": "",
+            "github": "",
+            "about": "a little something here from the dev.",
+            "keywords": ""
+        },
+        {
+            "image": "/images/developers/taylors.jpg",
+            "funImage": "/images/developers/taylorsFun.jpg",
+            "name": "Taylor Shuff",
+            "linkedIn": "https://www.linkedin.com",
+            "portfolio": "",
+            "github": "",
+            "about": "a little something here from the dev.",
+            "keywords": ""
+        },
+        {
+            "image": "/images/developers/stephen.jpg",
+            "funImage": "/images/developers/stephenFun.jpg",
+            "name": "Stephen Szpak",
+            "linkedIn": "https://www.linkedin.com",
+            "portfolio": "",
+            "github": "",
+            "about": "a little something here from the dev.",
+            "keywords": ""
+        },
+        {
+            "image": "/images/developers/mike.jpg",
+            "funImage": "/images/developers/mikeFun.jpg",
+            "name": "Mike Teutsch",
+            "linkedIn": "https://www.linkedin.com",
+            "portfolio": "",
+            "github": "",
+            "about": "a little something here from the dev.",
+            "keywords": ""
+        },
+        {
+            "image": "/images/developers/blair.jpg",
+            "funImage": "/images/developers/blairFun.jpg",
+            "name": "Blair Van Sant",
+            "linkedIn": "https://www.linkedin.com",
+            "portfolio": "",
+            "github": "",
+            "about": "a little something here from the dev.",
+            "keywords": ""
         },
         {
             "image": "/images/developers/sarah.jpg",
-            "funImage": "/images/developers/debra.jpg",
-            "name": "Sarah Ward",
+            "funImage": "/images/developers/sarahFun.jpg",
             "linkedIn": "https://www.linkedin.com",
-            "portfolio": "http://google.com",
-            "github": "https://github.com/",
+            "portfolio": "",
+            "github": "",
             "about": "a little something here from the dev.",
-            "keywords": "bake, baking, cook, walk, zoo, kids, parent, wisconsin"
+            "keywords": ""
         },
         {
-            "image": "/images/developers/justin.jpg",
-            "funImage": "/images/developers/taylor.jpg",
-            "name": "Justin Leggett",
+            "image": "/images/developers/tommy.jpg",
+            "funImage": "/images/developers/tommyFun.jpg",
+            "name": "Tommy Waters",
             "linkedIn": "https://www.linkedin.com",
-            "portfolio": "http://google.com",
-            "github": "https://github.com/",
+            "portfolio": "",
+            "github": "",
             "about": "a little something here from the dev.",
-            "keywords": "hike, hiking, church, nintendo, parent, alabama"
-        },
-        {
-            "image": "/images/developers/taylor.jpg",
-            "funImage": "/images/developers/justin.jpg",
-            "name": "Taylor Harry",
-            "linkedIn": "https://www.linkedin.com",
-            "portfolio": "http://google.com",
-            "github": "https://github.com/",
-            "about": "a little something here from the dev.",
-            "keywords": "gamble, travel, craft beer, married, drummer, kentucky"
-        },
-                {
-            "image": "/images/developers/debra.jpg",
-            "funImage": "/images/developers/sarah.jpg",
-            "name": "Debra Gordon",
-            "linkedIn": "http://debragordon.tech",
-            "about": "a little something here from the dev.",
-            "keywords": "parent, kids, baby, family, church, sing, singer, piano, gardening, netflix, new jersey, tennis"
-        },
-        {
-            "image": "/images/developers/sarah.jpg",
-            "funImage": "/images/developers/debra.jpg",
-            "name": "Sarah Ward",
-            "linkedIn": "https://www.linkedin.com",
-            "portfolio": "http://google.com",
-            "github": "https://github.com/",
-            "about": "a little something here from the dev.",
-            "keywords": "bake, baking, cook, walk, zoo, kids, parent, wisconsin"
-        },
-        {
-            "image": "/images/developers/justin.jpg",
-            "funImage": "/images/developers/taylor.jpg",
-            "name": "Justin Leggett",
-            "linkedIn": "https://www.linkedin.com",
-            "portfolio": "http://google.com",
-            "github": "https://github.com/",
-            "about": "a little something here from the dev.",
-            "keywords": "hike, hiking, church, nintendo, parent, alabama"
-        },
-        {
-            "image": "/images/developers/taylor.jpg",
-            "funImage": "/images/developers/justin.jpg",
-            "name": "Taylor Harry",
-            "linkedIn": "https://www.linkedin.com",
-            "portfolio": "http://google.com",
-            "github": "https://github.com/",
-            "about": "a little something here from the dev.",
-            "keywords": "gamble, travel, craft beer, married, drummer, kentucky"
-        },
-                {
-            "image": "/images/developers/debra.jpg",
-            "funImage": "/images/developers/sarah.jpg",
-            "name": "Debra Gordon",
-            "linkedIn": "http://debragordon.tech",
-            "about": "a little something here from the dev.",
-            "keywords": "parent, kids, baby, family, church, sing, singer, piano, gardening, netflix, new jersey, tennis"
-        },
-        {
-            "image": "/images/developers/sarah.jpg",
-            "funImage": "/images/developers/debra.jpg",
-            "name": "Sarah Ward",
-            "linkedIn": "https://www.linkedin.com",
-            "portfolio": "http://google.com",
-            "github": "https://github.com/",
-            "about": "a little something here from the dev.",
-            "keywords": "bake, baking, cook, walk, zoo, kids, parent, wisconsin"
-        },
-        {
-            "image": "/images/developers/justin.jpg",
-            "funImage": "/images/developers/taylor.jpg",
-            "name": "Justin Leggett",
-            "linkedIn": "https://www.linkedin.com",
-            "portfolio": "http://google.com",
-            "github": "https://github.com/",
-            "about": "a little something here from the dev.",
-            "keywords": "hike, hiking, church, nintendo, parent, alabama"
-        },
-        {
-            "image": "/images/developers/taylor.jpg",
-            "funImage": "/images/developers/justin.jpg",
-            "name": "Taylor Harry",
-            "linkedIn": "https://www.linkedin.com",
-            "portfolio": "http://google.com",
-            "github": "https://github.com/",
-            "about": "a little something here from the dev.",
-            "keywords": "gamble, travel, craft beer, married, drummer, kentucky"
+            "keywords": ""
         }
     ]
 }
