@@ -18,25 +18,24 @@ app.controller("HomeCtrl", function ($scope, $rootScope, $http){
                   { img:"/images/tech/firebase.png", title: "Firebase"},
                   { img:"/images/tech/git.png", title: "Git"},
                   { img:"/images/tech/github.png", title: "Github"},
+                  { img:"/images/tech/grunt.png", title: "Grunt"},
                   { img:"/images/tech/html5.png", title: "HTML5"},
                   { img:"/images/tech/javascript.png", title: "Javascript"},
+                  { img:"/images/tech/jquery.png", title: "jQuery"},
                   { img:"/images/tech/materialize.png", title: "Materialize"},
                   { img:"/images/tech/moqups.png", title: "MOQ"},
                   { img:"/images/tech/npm.png", title: "NPM"},
                   { img:"/images/tech/sass.png", title: "SASS"},
-                  { img:"/images/tech/SQLite.png", title: "SQLite"},
+                  { img:"/images/tech/sql.png", title: "SQL"},
+                  { img:"/images/tech/structuremap.png", title: "Structure Map"},
                   { img:"/images/tech/Trello.png", title: "Trello"},
                   ];
-
 
   $scope.clear = function () {
     document.getElementById("search").value = "";
     $scope.searchText = "";
   };
 
-
-
 });
-
 
 
