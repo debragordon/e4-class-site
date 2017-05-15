@@ -9,10 +9,7 @@ app.controller("HomeCtrl", function ($scope, $rootScope, $http){
   }
   );
 
-  // $scope.techIcons = ["/images/tech/angular.png", "/images/tech/Bootstrap.png", "/images/tech/Bower.png", "/images/tech/cSharp.png", "/images/tech/css.png", "/images/tech/dotNet.png", "/images/tech/firebase.png", "/images/tech/git.png", "/images/tech/github.png", "/images/tech/html5.png", "/images/tech/javascript.png", "/images/tech/materialize.png", "/images/tech/moqups.png", "/images/tech/npm.png", "/images/tech/sass.png", "/images/tech/SQLite.png", "/images/tech/Trello.png"];
-
-  $scope.techIcons = [{
-                    img:"/images/tech/angular.png", title: "Angular"},
+  $scope.techIcons = [{ img:"/images/tech/angular.png", title: "Angular"},
                   { img:"/images/tech/Bootstrap.png", title: "Bootstrap"},
                   { img:"/images/tech/Bower.png", title: "Bower"},
                   { img:"/images/tech/cSharp.png", title: "C#"},
