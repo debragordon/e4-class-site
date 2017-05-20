@@ -187,48 +187,6 @@ aside {
     //background-color: transparent
 }
 
-@media (min-width:768px) {
-    .navbar-default {
-        //background-color: transparent;
-        //border-color: rgba(255, 255, 255, .3)
-    }
-    .navbar-default .navbar-header .navbar-brand {
-        color: rgba(34, 34, 34, .7);
-    }
-    .navbar-default .navbar-header .navbar-brand:focus,
-    .navbar-default .navbar-header .navbar-brand:hover {
-        color: #eb3812;
-    }
-    .navbar-default .nav>li>a,
-    .navbar-default .nav>li>a:focus {
-        color: rgba(34, 34, 34, .7);
-    }
-    .navbar-default .nav>li>a:focus:hover,
-    .navbar-default .nav>li>a:hover {
-        color: #eb3812;
-    }
-    .navbar-default.affix {
-        background-color: #fff;
-        //border-color: rgba(34, 34, 34, .05)
-    }
-    .navbar-default.affix .navbar-header .navbar-brand {
-        color: rgba(34, 34, 34, .7);
-        font-size: 14px
-    }
-    .navbar-default.affix .navbar-header .navbar-brand:focus,
-    .navbar-default.affix .navbar-header .navbar-brand:hover {
-        color: #eb3812;
-    }
-    .navbar-default.affix .nav>li>a,
-    .navbar-default.affix .nav>li>a:focus {
-        color: rgba(34, 34, 34, .7);
-    }
-    .navbar-default.affix .nav>li>a:focus:hover,
-    .navbar-default.affix .nav>li>a:hover {
-        color: #eb3812;
-    }
-}
-
 header {
     min-height: auto;
     -webkit-background-size: cover;
@@ -263,34 +221,6 @@ header .header-content .header-content-inner p {
     margin-bottom: 50px
 }
 
-@media (min-width:768px) {
-    header {
-        min-height: 100%
-    }
-    header .header-content {
-        position: absolute;
-        top: 50%;
-        -webkit-transform: translateY(-50%);
-        -ms-transform: translateY(-50%);
-        transform: translateY(-50%);
-        padding: 0 50px
-    }
-    header .header-content .header-content-inner {
-        max-width: 1000px;
-        margin-left: auto;
-        margin-right: auto
-    }
-    header .header-content .header-content-inner h1 {
-        font-size: 50px
-    }
-    header .header-content .header-content-inner p {
-        font-size: 18px;
-        max-width: 80%;
-        margin-left: auto;
-        margin-right: auto
-    }
-}
-
 .section-heading {
     margin-top: 0
 }
@@ -300,11 +230,6 @@ header .header-content .header-content-inner p {
     margin: 50px auto 0
 }
 
-@media (min-width:992px) {
-    .service-box {
-        margin: 20px auto 0
-    }
-}
 
 .service-box p {
     margin-bottom: 0
@@ -371,14 +296,6 @@ header .header-content .header-content-inner p {
     outline: 0
 }
 
-@media (min-width:768px) {
-    .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
-        font-size: 16px
-    }
-    .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
-        font-size: 22px
-    }
-}
 
 .call-to-action h2 {
     margin: 0 auto 20px
@@ -398,6 +315,10 @@ header .header-content .header-content-inner p {
     background-color: #fff;
     border-color: #fff;
     transition: all .35s
+}
+
+#homeHeading {
+    margin-top: -200px;
 }
 
 .btn-default.active,
@@ -516,4 +437,84 @@ img::selection {
 img::-moz-selection {
     color: #fff;
     background: 0 0
+}
+
+@media (min-width:768px) {
+    .navbar-default {
+        //background-color: transparent;
+        //border-color: rgba(255, 255, 255, .3)
+    }
+    .navbar-default .navbar-header .navbar-brand {
+        color: rgba(34, 34, 34, .7);
+    }
+    .navbar-default .navbar-header .navbar-brand:focus,
+    .navbar-default .navbar-header .navbar-brand:hover {
+        color: #eb3812;
+    }
+    .navbar-default .nav>li>a,
+    .navbar-default .nav>li>a:focus {
+        color: rgba(34, 34, 34, .7);
+    }
+    .navbar-default .nav>li>a:focus:hover,
+    .navbar-default .nav>li>a:hover {
+        color: #eb3812;
+    }
+    .navbar-default.affix {
+        background-color: #fff;
+        //border-color: rgba(34, 34, 34, .05)
+    }
+    .navbar-default.affix .navbar-header .navbar-brand {
+        color: rgba(34, 34, 34, .7);
+        font-size: 14px
+    }
+    .navbar-default.affix .navbar-header .navbar-brand:focus,
+    .navbar-default.affix .navbar-header .navbar-brand:hover {
+        color: #eb3812;
+    }
+    .navbar-default.affix .nav>li>a,
+    .navbar-default.affix .nav>li>a:focus {
+        color: rgba(34, 34, 34, .7);
+    }
+    .navbar-default.affix .nav>li>a:focus:hover,
+    .navbar-default.affix .nav>li>a:hover {
+        color: #eb3812;
+    }
+    .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
+        font-size: 16px
+    }
+    .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
+        font-size: 22px
+    }
+    header {
+        min-height: 100%
+    }
+    header .header-content {
+        position: absolute;
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+        padding: 0 50px
+    }
+    header .header-content .header-content-inner {
+        max-width: 1000px;
+        margin-left: auto;
+        margin-right: auto
+    }
+    header .header-content .header-content-inner h1 {
+        font-size: 50px
+    }
+    header .header-content .header-content-inner p {
+        font-size: 18px;
+        max-width: 80%;
+        margin-left: auto;
+        margin-right: auto
+    }
+
+}
+
+@media (min-width:992px) {
+    .service-box {
+        margin: 20px auto 0
+    }
 }
