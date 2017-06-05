@@ -4,20 +4,18 @@
             "image": "/images/developers/alicia.jpg",
             "funImage": "/images/developers/aliciaFun.jpg",
             "name": "Alicia Bingham",
-            "linkedIn": "",
+            "linkedIn": "http://www.linkedin.com/in/aliciabingham",
             "portfolio": "",
             "github": "",
-            "about": "",
             "keywords": ""
         },
         {
             "image": "/images/developers/andi.jpg",
             "funImage": "/images/developers/andiFun.jpg",
             "name": "Andi DeVois",
-            "linkedIn": "",
-            "portfolio": "",
-            "github": "",
-            "about": "",
+            "linkedIn": "http://www.linkedin.com/in/andi-devois",
+            "portfolio": "http://www.devoisaurus.com",
+            "github": "http://www.github.com/devoisaurus",
             "keywords": ""
         },
         {
@@ -27,47 +25,42 @@
             "linkedIn": "https://www.linkedin.com/in/debramgordon/",
             "portfolio": "http://debragordon.tech",
             "github": "https://github.com/debragordon",
-            "about": "Most Likely To Roll The Wheels Back",
-            "keywords": "sing, singer, tennis, demo, piano, mom, parent, new jersey, dog, hike, travel, france, japan, germany, family, church, photographer, designer, design, teacher, drama"
-        },
-        {
-            "image": "/images/developers/owen.jpg",
-            "funImage": "/images/developers/owenFun.jpg",
-            "name": "Owen Herndon",
-            "linkedIn": "",
-            "portfolio": "",
-            "github": "",
-            "about": "",
-            "keywords": ""
+            "keywords": "settlers of catan, monoply deal, Vegas, candy crush, two dots, sing, singer, tennis, demo, piano, mom, parent, new jersey, dog, hike, travel, france, japan, germany, family, church, photographer, designer, design, teacher, drama"
         },
         {
             "image": "/images/developers/gayla.jpg",
             "funImage": "/images/developers/gaylaFun.jpg",
             "name": "Gayla Hall",
-            "linkedIn": "",
+            "linkedIn": "https://www.linkedin.com/in/gayla-b-hall-89909415/",
             "portfolio": "",
-            "github": "",
-            "about": "",
-            "keywords": ""
+            "github": "https://github.com/GAylabea",
+            "keywords": "library, librarian, book, read, jog, portland, oregon, movie, cat, harding, aunt, write, movie, heathers"
         },
         {
             "image": "/images/developers/lee.jpg",
             "funImage": "/images/developers/leeFun.jpg",
             "name": "Lee Hankins",
-            "linkedIn": "",
+            "linkedIn": "https://www.linkedin.com/in/lee-hankins-b1974394/",
             "portfolio": "",
-            "github": "",
-            "about": "",
+            "github": "https://github.com/utleroy",
             "keywords": ""
         },
         {
             "image": "/images/developers/taylor.jpg",
             "funImage": "/images/developers/taylorFun.jpg",
             "name": "Taylor Harry",
-            "linkedIn": "",
+            "linkedIn": "https://www.linkedin.com/in/taylorharry/",
             "portfolio": "",
             "github": "",
-            "about": "",
+            "keywords": ""
+        },
+        {
+            "image": "/images/developers/owen.jpg",
+            "funImage": "/images/developers/owenFun.jpg",
+            "name": "Owen Herndon",
+            "linkedIn": "https://www.linkedin.com/in/owen-herndon-45ba5866/",
+            "portfolio": "",
+            "github": "https://github.com/OwenHerndon",
             "keywords": ""
         },
         {
@@ -77,87 +70,87 @@
             "linkedIn": "",
             "portfolio": "",
             "github": "",
-            "about": "",
-            "keywords": "update all of the keyword lists"
+            "keywords": ""
         },
         {
             "image": "/images/developers/jessica.jpg",
             "funImage": "/images/developers/jessicaFun.jpg",
             "name": "Jessica Kilby",
-            "linkedIn": "",
+            "linkedIn": "https://www.linkedin.com/in/jessica-kilby/",
             "portfolio": "",
-            "github": "",
-            "about": "",
-            "keywords": ""
+            "github": "https://github.com/jessicakilby",
+            "keywords": "shelter dog mom, rabbits, pond, lab tech, reading, sci-fi, fantasy, anime, board games, aquaponics, gardening, backpacking, camping, bike riding, army brat"
         },
         {
             "image": "/images/developers/josh.jpg",
             "funImage": "/images/developers/joshFun.jpg",
             "name": "Josh Kilgore",
-            "linkedIn": "",
+            "linkedIn": "https://www.linkedin.com/in/josh-kilgore-esq-6946b924/",
             "portfolio": "",
-            "github": "",
-            "about": "",
-            "keywords": "lawyer"
+            "github": "https://github.com/jkillz2020",
+            "keywords": "attorney, counselor, dad, father, coder, gamer, beer lover, dogs, goldendoodle, peekapoo, software, future husband, parent, outdoors, fishing, geek, comicbooks, wolverine, predator, aliens, hiking, learning, video games, all things tech, music, rock, hip-hop, rap, EDM, pretty lights, run the jewels, wu-tang, FPS, cars, board sports, space, astronomy, podcasts, welcome to nightvale, history, lore"
         },
         {
             "image": "/images/developers/justin.jpg",
             "funImage": "/images/developers/justinFun.jpg",
             "name": "Justin Leggett",
-            "linkedIn": "",
-            "portfolio": "",
-            "github": "",
-            "about": "",
-            "keywords": ""
+            "linkedIn": "https://www.linkedin.com/in/justinleggett/",
+            "portfolio": "http://www.justinleggett.me",
+            "github": "https://github.com/justinal64",
+            "keywords": "faith, family, friends"
         },
         {
             "image": "/images/developers/bin.jpg",
             "funImage": "/images/developers/binFun.jpg",
             "name": "Bin Li",
-            "linkedIn": "",
+            "linkedIn": "http://www.linkedin.com/in/bin-li-638255140",
             "portfolio": "",
-            "github": "",
-            "about": "",
-            "keywords": ""
+            "github": "https://github.com/LibE4",
+            "keywords": "tennis, pomeranion"
         },
         {
             "image": "/images/developers/nathan.jpg",
             "funImage": "/images/developers/nathanFun.jpg",
             "name": "Nathan Ostrander",
-            "linkedIn": "",
+            "linkedIn": "https://www.linkedin.com/in/nathan-ostrander-6b360948/",
             "portfolio": "",
-            "github": "",
-            "about": "",
+            "github": "https://github.com/ostrander-nathan",
+            "keywords": ""
+        },
+        {
+            "image": "/images/developers/dustin.jpg",
+            "funImage": "",
+            "name": "Dustin Reed",
+            "linkedIn": "https://www.linkedin.com/in/dustinmreed/",
+            "portfolio": "",
+            "github": "https://github.com/drdreed",
             "keywords": ""
         },
         {
             "image": "/images/developers/alex.jpg",
             "funImage": "/images/developers/alexFun.jpg",
             "name": "Alex Saber",
-            "linkedIn": "",
-            "portfolio": "",
-            "github": "",
-            "about": "",
-            "keywords": ""
+            "linkedIn": "http://www.linkedin.com/in/alex-saber",
+            "portfolio": "http://www.alexsaber.com",
+            "github": "http://github.com/alexsaber89",
+            "keywords": "belmont, music, guitar, classical guitar, teacher, meshuggah, mobb deep, film, david lynch, paul thomas anderson, the sopranos, the shield, games, pc, starcraft, overwatch, battlegrounds, diablo, zelda, portal"
         },
         {
             "image": "/images/developers/taylors.jpg",
             "funImage": "/images/developers/taylorsFun.jpg",
             "name": "Taylor Shuff",
-            "linkedIn": "",
-            "portfolio": "",
-            "github": "",
-            "about": "",
+            "linkedIn": "https://www.linkedin.com/in/taylor-shuff-0aa7a44a/",
+            "portfolio": "http://www.taylorshuff.com",
+            "github": "https://github.com/tkylesh",
             "keywords": ""
         },
         {
             "image": "/images/developers/stephen.jpg",
             "funImage": "/images/developers/stephenFun.jpg",
             "name": "Stephen Szpak",
-            "linkedIn": "",
-            "portfolio": "",
-            "github": "",
-            "about": "",
+            "linkedIn": "https://www.linkedin.com/in/stephen-szpak-2b352538/",
+            "portfolio": "http://www.stephenszpak.com",
+            "github": "https://github.com/stephenszpak",
             "keywords": ""
         },
         {
@@ -167,38 +160,34 @@
             "linkedIn": "",
             "portfolio": "",
             "github": "",
-            "about": "",
             "keywords": ""
         },
         {
             "image": "/images/developers/blair.jpg",
             "funImage": "/images/developers/blairFun.jpg",
             "name": "Blair Van Sant",
-            "linkedIn": "",
+            "linkedIn": "http://www.linkedin.com/in/blair-van-sant-b370a9110/",
             "portfolio": "",
-            "github": "",
-            "about": "",
+            "github": "https://github.com/blairvansant",
             "keywords": ""
         },
         {
             "image": "/images/developers/sarah.jpg",
             "funImage": "/images/developers/sarahFun.jpg",
             "name": "Sarah Ward",
-            "linkedIn": "",
+            "linkedIn": "https://www.linkedin.com/in/sarah-ward-75623032",
             "portfolio": "",
-            "github": "",
-            "about": "",
-            "keywords": ""
+            "github": "https://github.com/sward42",
+            "keywords": "bake, baker, movies, films, cat, cats, mom, mother, foodie, boxing, volleyball, basketball, Michigan, soccer, Columbus Crew, Columbus, parent, hiking, homes, MSU, Michigan State, seamstress, sewing, baking, wine, popcorn, lake huron"
         },
         {
             "image": "/images/developers/tommy.jpg",
             "funImage": "/images/developers/tommyFun.jpg",
             "name": "Tommy Waters",
-            "linkedIn": "",
+            "linkedIn": "https://www.linkedin.com/in/thomas-waters-6b0b0b61/",
             "portfolio": "",
-            "github": "",
-            "about": "",
-            "keywords": ""
+            "github": "https://github.com/Thomaswaters05",
+            "keywords": "Titans, foodie, father, MTSU, whiskey, sales,coke zero, beer, hardware, pit pull, corgi, coder, sports, analytics, data, vacationing, smile, outdoors, lake, ocean, water, netflix, chill, hot chicken, nashville, roll tide, football, Miller, postivity, rap, classic rock, hiking, columbia sportswear, milo's cheeseburgers, home automation, family, boats"
         }
     ]
 }
