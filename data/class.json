@@ -7,7 +7,7 @@
             "linkedIn": "http://www.linkedin.com/in/aliciabingham",
             "portfolio": "",
             "github": "",
-            "keywords": ""
+            "keywords": "teacher, kentucky, dog, "
         },
         {
             "image": "/images/developers/andi.jpg",
@@ -20,12 +20,12 @@
         },
         {
             "image": "/images/developers/jennifer.jpg",
-            "funImage": "",
+            "funImage": "/images/developers/jennifer.jpg",
             "name": "Jennifer Dutton",
             "linkedIn": "https://www.linkedin.com/in/jenniferdutton/",
             "portfolio": "",
             "github": "https://github.com/jduttondesign",
-            "keywords": ""
+            "keywords": "ice cream aficionado, canoeing, artist, photography, Audubon Society volunteer, boating, travel, graphic designer, dogs, problem solver"
         },        {
             "image": "/images/developers/debra.jpg",
             "funImage": "/images/developers/debraFun.jpg",
@@ -49,7 +49,7 @@
             "funImage": "/images/developers/leeFun.jpg",
             "name": "Lee Hankins",
             "linkedIn": "https://www.linkedin.com/in/lee-hankins-b1974394/",
-            "portfolio": "",
+            "portfolio": "www.leehankins.com",
             "github": "https://github.com/utleroy",
             "keywords": ""
         },
@@ -59,33 +59,33 @@
             "name": "Taylor Harry",
             "linkedIn": "https://www.linkedin.com/in/taylorharry/",
             "portfolio": "",
-            "github": "",
-            "keywords": ""
+            "github": "https://github.com/tayloraharry",
+            "keywords": "kentucky, UK, sante, analytics, sql, angular, mongo, express, node, c#, .net"
         },
         {
             "image": "/images/developers/owen.jpg",
             "funImage": "/images/developers/owenFun.jpg",
             "name": "Owen Herndon",
             "linkedIn": "https://www.linkedin.com/in/owen-herndon-45ba5866/",
-            "portfolio": "",
+            "portfolio": "www.owenherndon.com",
             "github": "https://github.com/OwenHerndon",
-            "keywords": ""
+            "keywords": "lipscomb, cat, drone, aerial video, angular, c#, overwatch, meme, discord, slack, steam, archer, bellevue, fishing, grill, football, gamer, 4x4, labrador, moab, ipa, lake, pontoon, soundcloud"
         },
         {
             "image": "/images/developers/abbie.jpg",
             "funImage": "/images/developers/abbieFun.jpg",
             "name": "Abbie Holder",
-            "linkedIn": "",
+            "linkedIn": "https://www.linkedin.com/in/abigailholder/",
             "portfolio": "",
-            "github": "",
-            "keywords": ""
+            "github": "https://github.com/abidina",
+            "keywords": "lipscomb, travel, dogs, great pyrenees, gaming, dog mom, history, psychology, mass effect, camping, chattanooga, disney, austria, recruiter, space, fantasy, sci-fi, volunteer, smoky mountains, vienna "
         },
         {
             "image": "/images/developers/jessica.jpg",
             "funImage": "/images/developers/jessicaFun.jpg",
             "name": "Jessica Kilby",
             "linkedIn": "https://www.linkedin.com/in/jessica-kilby/",
-            "portfolio": "",
+            "portfolio": "https://jessicakilby.com",
             "github": "https://github.com/jessicakilby",
             "keywords": "shelter dog mom, rabbits, pond, lab tech, reading, sci-fi, fantasy, anime, board games, aquaponics, gardening, backpacking, camping, bike riding, army brat"
         },
@@ -94,7 +94,7 @@
             "funImage": "/images/developers/joshFun.jpg",
             "name": "Josh Kilgore",
             "linkedIn": "https://www.linkedin.com/in/josh-kilgore-esq-6946b924/",
-            "portfolio": "",
+            "portfolio": "www.joshkilgore.com",
             "github": "https://github.com/jkillz2020",
             "keywords": "attorney, counselor, dad, father, coder, gamer, beer lover, dogs, goldendoodle, peekapoo, software, future husband, parent, outdoors, fishing, geek, comicbooks, wolverine, predator, aliens, hiking, learning, video games, all things tech, music, rock, hip-hop, rap, EDM, pretty lights, run the jewels, wu-tang, FPS, cars, board sports, space, astronomy, podcasts, welcome to nightvale, history, lore"
         },
@@ -127,7 +127,7 @@
         },
         {
             "image": "/images/developers/dustin.jpg",
-            "funImage": "",
+            "funImage": "/images/developers/dustin.jpg",
             "name": "Dustin Reed",
             "linkedIn": "https://www.linkedin.com/in/dustinmreed/",
             "portfolio": "",
@@ -150,7 +150,7 @@
             "linkedIn": "https://www.linkedin.com/in/taylor-shuff-0aa7a44a/",
             "portfolio": "http://www.taylorshuff.com",
             "github": "https://github.com/tkylesh",
-            "keywords": ""
+            "keywords": "GameOfThrones, nintendo64, MTSU, drums, .net, c#, javascript, typescript, angularjs,software, comedy nerd, computer, computer information systems"
         },
         {
             "image": "/images/developers/stephen.jpg",
@@ -159,25 +159,25 @@
             "linkedIn": "https://www.linkedin.com/in/stephen-szpak-2b352538/",
             "portfolio": "http://www.stephenszpak.com",
             "github": "https://github.com/stephenszpak",
-            "keywords": ""
+            "keywords": "music, metal, tattoos, dogs, science, game of thrones, wheel of time, space, cool, neat, awesome"
         },
         {
             "image": "/images/developers/mike.jpg",
             "funImage": "/images/developers/mikeFun.jpg",
             "name": "Mike Teutsch",
-            "linkedIn": "",
+            "linkedIn": "https://www.linkedin.com/in/michael-teutsch-403398142/",
             "portfolio": "",
-            "github": "",
-            "keywords": ""
+            "github": "https://github.com/mgteutsch",
+            "keywords": "belmont, music, piano, music theory, finance, marketing, consulting, hiking, traveling, welding, sushi, dogs, smoky mountains, asheville, colorado, Salzburg, Austria, Munich, Germany, Bavaria, Oktoberfest, legos, Game of Thrones, Arrested Development, John Oliver   "
         },
         {
             "image": "/images/developers/blair.jpg",
             "funImage": "/images/developers/blairFun.jpg",
             "name": "Blair Van Sant",
             "linkedIn": "http://www.linkedin.com/in/blair-van-sant-b370a9110/",
-            "portfolio": "",
+            "portfolio": "www.blairvansant.com",
             "github": "https://github.com/blairvansant",
-            "keywords": ""
+            "keywords": "nashville, davidson county, east nashville, tennessee, cycling, baking, cooking, brick oven, sporting clays, history, space, photography, landscape design, interior design, family man"
         },
         {
             "image": "/images/developers/sarah.jpg",
@@ -186,7 +186,7 @@
             "linkedIn": "https://www.linkedin.com/in/sarah-ward-75623032",
             "portfolio": "",
             "github": "https://github.com/sward42",
-            "keywords": "bake, baker, movies, films, cat, cats, mom, mother, foodie, boxing, volleyball, basketball, Michigan, soccer, Columbus Crew, Columbus, parent, hiking, homes, MSU, Michigan State, seamstress, sewing, baking, wine, popcorn, lake huron"
+            "keywords": "bake, baker, movies, films, cat, cats, mom, mother, foodie, boxing, volleyball, basketball, Michigan, soccer, Columbus Crew, Columbus, parent, hiking, hike, sew, read, Game of Thrones, Arrested Development, Nintendo, homes, MSU, Michigan State, seamstress, sewing, baking, wine, popcorn"
         },
         {
             "image": "/images/developers/tommy.jpg",
