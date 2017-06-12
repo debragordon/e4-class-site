@@ -9,6 +9,14 @@ app.controller("HomeCtrl", function ($scope, $rootScope, $http){
   }
   );
 
+  // var searchKeyword = function(developers) {
+  //   $scope.keywords = [];
+
+  //   for (var i = 0, i < developers.length, i++) {
+
+  //   }
+  // }
+
   $scope.techIcons = [{ img:"/images/tech/angular.png", title: "Angular"},
                   { img:"/images/tech/Bootstrap.png", title: "Bootstrap"},
                   { img:"/images/tech/Bower.png", title: "Bower"},
@@ -36,7 +44,6 @@ app.controller("HomeCtrl", function ($scope, $rootScope, $http){
     $scope.searchText = "";
   };
 
-
   $(function(){
     var navMain = $("#bs-example-navbar-collapse-1");
     navMain.on("click", "a", null, function () {
@@ -44,7 +51,4 @@ app.controller("HomeCtrl", function ($scope, $rootScope, $http){
     });
   });
 
-
 });
-
-
